@@ -1017,7 +1017,7 @@ pushgateway:
 #      smtp_form: testimpelsys12@gmail.com
 #      smtp_smarthost: smtp.gmail.com:587
 #      smtp_auth_username: testimpelsys12@gmail.com
-#      smtp_auth_password: Cloud@impelsys
+#      smtp_auth_password: 
 #      smtp_require_tls: true
       # slack_api_url: ''
 
@@ -1035,7 +1035,7 @@ alertmanagerFiles:
       smtp_from: testimpelsys12@gmail.com
       smtp_smarthost: smtp.gmail.com:587
       smtp_auth_username: testimpelsys12@gmail.com
-      smtp_auth_password: Cloud@impelsys
+      smtp_auth_password: 
       smtp_require_tls: true
     receivers:
       - name: default-receiver
