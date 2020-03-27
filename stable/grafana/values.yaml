@@ -423,7 +423,7 @@ smtp:
   # for Grafana.
   existingSecret: ""
   userKey: "testimpelsys12@gmail.com"
-  passwordKey: "Cloud@impelsys"
+  passwordKey: "*******"
 
 ## Sidecars that collect the configmaps with specified label and stores the included files them into the respective folders
 ## Requires at least Grafana 5 to work and can't be used together with parameters dashboardProviders, datasources and dashboards
