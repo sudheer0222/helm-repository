@@ -311,7 +311,7 @@ notifiers:
        # recipient: "XXX"
        # token: "xoxb"
          uploadImage: true
-         url: https://teams.microsoft.com/l/channel/19%3a56471598b948463ebcdaff592739c795%40thread.skype/General?groupId=8bd30402-317a-4e7a-9855-de4a8d7c30fc&tenantId=b223ef84-eb37-44e0-8ef9-6b666a35bdce
+         url: *******
 
        #  addresses: testimpelsys12@gmail.com
 #    delete_notifiers:
